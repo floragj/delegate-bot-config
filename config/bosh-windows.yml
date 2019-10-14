@@ -31,6 +31,5 @@ delegatebot:
                 Frankie GJ: UMVSQF1UZ
                 Sam Coward: U07CBKZU4
           - user: { id: &Anushka_Makhija U5C7QJGDA }
-          - user: { id: &Kartik_Lunkad U0MJ7N77U }
   options:
     empty_message: Sorry, no interrupt is available right now. The community may be able to help, or feel free to ping again later.
