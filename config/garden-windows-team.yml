@@ -4,12 +4,9 @@ delegatebot:
   - target: { channel: &pcf-windows-eng G0GQ8KXLZ }
   delegate:
     union:
-    - user: { id: &Yael UCKDV7ZEK }
-    - user: { id: &Natalie U2SSN6RQQ }
     - user: { id: &Yechiel UDT3Q8KLH }
     - user: { id: &Arjun UBKBNQBBM }
     - user: { id: &Matt U0563PD3X }
     - user: { id: &Genevieve U0BSZH3EX }
-    - user: { id: &Sophie UF53HEMMW }
     - user: { id: &Cara UK06QV0BU }
     - user: { id: &Jack U7U1BRTR8 }
