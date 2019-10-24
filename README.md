@@ -6,7 +6,7 @@ For updating the garden windows team Slack bot in the #pcf-windows and garden-wi
 
 1. Go into the config directory and edit the following files: 
     * `garden-windows.yml`
-    * `garden-windows-teams.yml`
+    * `garden-windows-team.yml`
 
 2. In `garden-windows.yml`, add a new line in the `Users` section with the name as found in [Pairist](https://pair.ist/garden-windows/current). 
     
