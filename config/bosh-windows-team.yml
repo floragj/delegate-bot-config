@@ -4,7 +4,6 @@ delegatebot:
   - target: { channel: &pcf-windows-eng G0GQ8KXLZ }
   delegate:
     union:
-    - user: { id: &Garima_Sharma U2LAQS9RQ }
     - user: { id: &George_Gelashvili U0FA4167Q }
     - user: { id: &Matthew_Horan U0563PD3X }
     - user: { id: &Tal_Usvyatsky UL5DFJS4C }
