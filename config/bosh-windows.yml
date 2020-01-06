@@ -29,6 +29,7 @@ delegatebot:
                 Daniel Basner: UJRBWR9FE
                 Frankie GJ: UMVSQF1UZ
                 Sam Coward: U07CBKZU4
+                Austina Lin: US9KEFEDC
           - user: { id: &Anushka_Makhija U5C7QJGDA }
   options:
     empty_message: Sorry, no interrupt is available right now. The community may be able to help, or feel free to ping again later.
