@@ -30,6 +30,7 @@ delegatebot:
                 Frankie GJ: UMVSQF1UZ
                 Sam Coward: U07CBKZU4
                 Austina Lin: US9KEFEDC
+                Andrew Woosnam: UJETG8TSS
           - user: { id: &Anushka_Makhija U5C7QJGDA }
   options:
     empty_message: Sorry, no interrupt is available right now. The community may be able to help, or feel free to ping again later.
